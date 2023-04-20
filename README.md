@@ -68,19 +68,3 @@ Some advanced redact apps use AI and ML techniques to automatically detect and r
 
 --------------------------
 
-## Autor
-
-```Success Chikezie```
-
-### Connect me!
-
-<br>
-<div>
-
-<a  href="https://twitter.com/succynice"  target="_blank">  <img  align="left"  alt="Success Chikezie | Twitter"  src="https://img.shields.io/twitter/follow/succynice?style=social"/>  </a>
-
-<a  href="https://www.linkedin.com/in/succynice/"  target="_blank">  <img  align="left"  alt="Success Chikezie | LinkedIn"  src="https://img.shields.io/badge/LinkedIn-+24K-blue?style=social&logo=linkedin"/>  </a>
-
-<a  href="https://github.com/succynice/"  target="_blank">  <img  align="left"  src="https://img.shields.io/github/followers/succynice?style=social"  alt="Ralex | Github">  </a>
-</br>
-</div>
